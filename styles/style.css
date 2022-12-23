@@ -1,0 +1,49 @@
+article{
+    border: 1px solid rgb(202, 188, 188);
+    border-radius: 20px;
+    margin: 20px;
+}
+img{
+    height:100%;
+    width:100%;
+    object-fit:fill;
+    border-radius: 20px 20px 0px 0px;
+}
+.nashe{
+    height:500px;
+    position: relative;
+}
+.texto{
+
+    margin: 2px;
+}
+.pepe{
+    margin: 20px;
+    border: 1px solid rgb(202, 188, 188);
+    border-radius: 20px;
+}
+.login{
+    background-color:black;
+}
+.textologin{
+    color: white;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+.imgredonda{
+    position: relative;
+    width:200px;
+    height:200px;
+    border-radius:100px;
+    top:-100px;
+    margin-top: 0%;
+    margin-left: 10px;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+.habilidades{
+    padding-left:20%;
+    padding-right:20%;
+}
